@@ -1,0 +1,17 @@
+category,metric,product,region,date,unit_price
+total sales product,,A,,,7017.0
+total sales product,,B,,,8496.0
+total sales product,,C,,,8438.0
+total sales region,,,east,,4747.0
+total sales region,,,north,,6175.0
+total sales region,,,south,,5945.0
+total sales region,,,west,,7084.0
+Top 3 products,,B,,,8496.0
+Top 3 products,,C,,,8438.0
+Top 3 products,,A,,,7017.0
+Highest sales day,,,,2025-10-29,1087.0
+numpy summary,average_sale,,,,119.755
+numpy summary,maximum_sale,,,,199.0
+numpy summary,minimum_sale,,,,50.0
+week_summary,weekdays_sales,,,,18163.0
+week_summary,weekends_sales,,,,5788.0

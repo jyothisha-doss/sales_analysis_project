@@ -1,0 +1,23 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs / temp files
+*.log
+*.tmp
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large data files (keep only sample CSVs)
+data/*.parquet
+data/*.delta
+data/*.csv
+
+# But allow sample CSV
+!data/sales_data_sample.csv
