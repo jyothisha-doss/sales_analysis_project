@@ -15,8 +15,6 @@ This project is a mini data analysis pipeline built using **Python**, **Pandas**
 
 ---
 
----
-
 ## Dataset
 - **Columns:**
   - `date`: Sale date  
